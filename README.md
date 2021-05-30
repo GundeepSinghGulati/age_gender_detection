@@ -1,1 +1,2 @@
 # age_gender_detection
+This project is based on real-time gender detection and age detection of a person using a pre-trained model like age_net.Caffe model for age detection, gender_net.Caffe model for gender detection and open_cv face detector model for face detection. All pre-trained models are stored in zip files just extract all zip files and place them in one folder. Code is easy to understand and easy to run. It detects real-time people with their gender and age.
